@@ -36,5 +36,5 @@
   </a>
 </div
   
-  ![Snake animation](https://github.com/victortavaresdev/victortavaresdev/blob/output/github-contribution-grid-snake.svg)
+ 
 
