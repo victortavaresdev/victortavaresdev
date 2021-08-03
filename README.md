@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div>
 
+# Estatísticas
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />       
+</div>
 
 # Contato
 
