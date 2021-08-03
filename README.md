@@ -1,4 +1,4 @@
-### Oi, tudo bem? �wave
+### Oi, tudo bem? wave
 
 # Sobre Mim
 
