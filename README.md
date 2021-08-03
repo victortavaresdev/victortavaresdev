@@ -1,12 +1,12 @@
 # Oi, tudo bom? 👋
 
-# Sobre Mim
+### Sobre Mim
 
 * Desenvolvedor Front-end com foco em React.js 👨‍💻
 * Estudante de Análise e Desenvolvimento de Sistemas 📜
 * Sou apaixonado por tecnologia e pelo aprendizado contínuo para me manter sempre em constante evolução profissional.
 
-# Tecnologias
+### Tecnologias
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,13 +19,13 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div>
 
-# Estatísticas
+### Estatísticas
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=victortavaresdev&show_icons=true&theme=tokyonight" />  
 </div>
 
-# Contato
+### Contato
 
 <div>
   <a href="mailto:victortavaresdev@gmail.com" target="_blank">
