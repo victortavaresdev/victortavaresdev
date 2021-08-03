@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div
-  
-  <svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+
+ <svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
