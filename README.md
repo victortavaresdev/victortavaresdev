@@ -23,6 +23,9 @@
 # Contato
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" />
+  <a href="mailto:victortavaresdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    
 </div
 
