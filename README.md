@@ -21,3 +21,7 @@
 
 # Contato
 
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" />
+</div
+
