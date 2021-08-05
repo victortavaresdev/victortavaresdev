@@ -1,5 +1,9 @@
 <h1 align="center">Hi, How's going? 👋</h1>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/victortavaresdev)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victortavaresdev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-tavares-dev/)
+
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
@@ -33,13 +37,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=victortavaresdev&show_icons=true&theme=tokyonight" />  
 </div>
 
-### Contact
 
-<div>
-  <a href="mailto:victortavaresdev@gmail.com" target="_blank">
-  <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
-  </a>
-  <a href="https://www.linkedin.com/in/victor-tavares-dev/" target="_blank" >
-  <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div
