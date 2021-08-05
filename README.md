@@ -25,7 +25,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### Estudando
 
-🟠 <a href="https://nextjs.org/">Next.js</a> 🔹 <a href="https://www.typescriptlang.org/">Typescript</a>
+🟠 <a href="https://nextjs.org/">Next.js</a> 🔹 <a href="https://www.typescriptlang.org/">TypeScript</a>
 
 
 ### GitHub Stats
