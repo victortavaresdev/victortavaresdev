@@ -20,7 +20,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### Tecnologias & Ferramentas
 
 🟢 HTML5, CSS3, Sass, JavaScript ES6+ </br>
-🟣 , Styled Components,<a href="https://reactjs.org/">React.js</a> React Router </br>
+🟣 <a href="https://reactjs.org/">React.js</a> <a href="https://styled-components.com/">Styled Components</a>, React Router </br>
 ⚫ Linux Mint, VS Code, Git, Github
 
 ### GitHub Stats
