@@ -1,4 +1,3 @@
-# 
 <h2 align="center">Oi, tudo bem? 👋</h2>
 
 <table align="right">
