@@ -5,12 +5,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victortavaresdev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-tavares-dev/)
 
- 
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
-
 
 ### Sobre Mim
 
