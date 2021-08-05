@@ -36,8 +36,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 </div>
 
-🟠 <a href="https://nextjs.org/">Next.js</a> 🔹 <a href="https://www.typescriptlang.org/">TypeScript</a>
-
 
 ### GitHub Stats
 
