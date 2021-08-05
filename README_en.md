@@ -1,4 +1,5 @@
-<h1 align="center">Hi, How's going? 👋</h1>
+<h1 align="center">Hi, How's going? <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/victortavaresdev)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victortavaresdev@gmail.com)
