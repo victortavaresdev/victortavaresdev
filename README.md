@@ -23,6 +23,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 🟣 <a href="https://reactjs.org/">React.js</a> 🔹 <a href="https://styled-components.com/">Styled Components</a> 🔹 <a href="https://reactrouter.com/">React Router</a> </br>
 ⚫ <a href="https://linuxmint.com/">Linux Mint</a> 🔹 <a href="https://code.visualstudio.com/">VS Code</a> 🔹 <a href="https://git-scm.com/">Git</a> 🔹 <a href="https://github.com/">Github</a>
 
+### Estudando
+
+🟠 <a href="https://nextjs.org/">Next</a> 🔹 <a href="https://www.typescriptlang.org/">Typescript</a>
+
+
 ### GitHub Stats
 
 <div>
