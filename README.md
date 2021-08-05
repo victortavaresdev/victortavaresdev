@@ -44,7 +44,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </div>
 
 
-## GitHub Stats
+## 🤖 GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=victortavaresdev&show_icons=true&theme=tokyonight" />  
