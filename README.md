@@ -40,15 +40,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </div>
 
 
-### Contato
 
-<div>
-  <a href="mailto:victortavaresdev@gmail.com" target="_blank">
-  <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
-  </a>
-  <a href="https://www.linkedin.com/in/victor-tavares-dev/" target="_blank" >
-  <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div
 
  
