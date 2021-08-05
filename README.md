@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao meu perfil! <img
+<h1 align="center">Bem-vindo ao meu perfil <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 
@@ -35,7 +35,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <img background="black" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React router" title="react-router" height="25" />
 </div>
 
-## 📖 Estudando no momento
+## 📖 Estudando atualmente
 
 <div>
  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
