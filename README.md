@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo ao perfil! <img
+<h1 align="center">Bem-vindo ao meu perfil! <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 
