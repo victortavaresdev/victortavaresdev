@@ -1,4 +1,4 @@
-<h1>Oi, tudo bem? <img
+<h1 align="center">Oi, tudo bem? <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/victortavaresdev)
