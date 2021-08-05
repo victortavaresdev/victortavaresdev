@@ -10,14 +10,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 
-### Sobre Mim:
+### Sobre Mim
 
  👨‍💻 Desenvolvedor Front-end com foco em React.js</br>
  🖥️ Estudante de Análise e Desenvolvimento de Sistemas</br> 
  💜 Apaixonado por tecnologia e pelo aprendizado contínuo para me manter sempre em constante evolução profissional 
 
 
-### 🛠 Tecnologias & Ferramentas:
+### 🛠 Tecnologias & Ferramentas
 
 <div>
  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
@@ -30,7 +30,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
 </div>
 
-### Estudando no momento:
+### 📖 Estudando no momento
 
 <div>
  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
