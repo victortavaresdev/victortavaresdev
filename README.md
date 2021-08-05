@@ -19,6 +19,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### Tecnologias & Ferramentas
 
+🔵 HTML5, CSS3, Sass, JavaScript ES6+
+🟢 React.js, Styled Components, React Router
+⚫ Linux Mint, VS Code, Git, Github
+
 <div>
   <img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
