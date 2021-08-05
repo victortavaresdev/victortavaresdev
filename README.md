@@ -1,4 +1,5 @@
-# Oi, tudo bem? 👋
+# 
+<h2 align="center">Oi, tudo bem? 👋</h2>
 
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
