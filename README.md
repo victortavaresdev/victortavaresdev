@@ -1,4 +1,5 @@
-<h1 align="center">Oi, tudo bem? 👋</h1>
+<h1 align="center">Oi, <a href="https://www.blackcater.win/" target="_blank">tudo bem?</a><img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
