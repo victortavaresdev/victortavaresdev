@@ -17,7 +17,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  💜 Apaixonado por tecnologia e pelo aprendizado contínuo para me manter sempre em constante evolução profissional 
 
 
-### Tecnologias & Ferramentas:
+### 🛠 Tecnologias & Ferramentas:
 
 <div>
  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
