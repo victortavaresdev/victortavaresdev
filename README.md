@@ -10,7 +10,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
  
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=default&font=default)
 
 ## 👾 Sobre Mim
 
