@@ -1,4 +1,4 @@
-# Hi, How's going? 👋
+<h1 align="center">Hi, How's going? 👋</h1>
 
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
