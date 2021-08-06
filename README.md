@@ -33,12 +33,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
 </div>
 
-## 📖 Estudando atualmente
+## 📖 Contato
 
 <div>
- <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
- <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+ <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="25" /></a>
+ <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="25" /></a>
+ <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="25" /></a>
 </div>
 
 
