@@ -1,7 +1,4 @@
-<h1 align="center">Bem-vindo ao meu perfil <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
- ![Victor Tavares](./banner.png)
+![Victor Tavares](./banner.png)
  
  <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
