@@ -5,7 +5,7 @@
  <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="20" /></a>
  <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="20" /></a>
 
- <table align="right">
+ <table>
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
