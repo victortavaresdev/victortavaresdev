@@ -1,13 +1,5 @@
 ![Victor Tavares](./top.png)
 
-<div align="center">
-  <a href="https://github.com/victortavaresdev">Github Profile</a> 🔹
-  <a href="mailto:victortavaresdev@gmail.com">Email</a> 🔹
-  <a href="https://www.linkedin.com/in/victor-tavares-dev/">Linkedin</a>
- </div>
-
----
-
 ## 👾 Sobre Mim
 
  👨‍💻 Desenvolvedor Front-end com foco em React.js</br>
