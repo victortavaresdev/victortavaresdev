@@ -1,4 +1,4 @@
-![Victor Tavares](./banner.png)
+![Victor Tavares](./topo.png)
 
 ## 👾 Sobre Mim
 
