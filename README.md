@@ -1,4 +1,4 @@
-![Victor Tavares](./banner.png)
+![Victor Tavares](./top.png)
  
  <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
