@@ -7,6 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </table>
 
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default)
+ ![Victor Tavares](./banner.png)
 
 ## 👾 Sobre Mim
 
