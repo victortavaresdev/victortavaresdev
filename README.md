@@ -1,6 +1,6 @@
-### <div align="center"><a href="README.md">Português</a>🔹<a href="README_en.md">English</a></div>
-
 ![Victor Tavares](./topo.png)
+
+### <div align="center"><a href="README.md">Português</a>🔹<a href="README_en.md">English</a></div>
 
 ## 👨‍💻 Sobre Mim
 
