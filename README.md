@@ -1,11 +1,9 @@
 ## Olá
-
-![Victor Tavares](./topo.png)
-
-<div align="center">
+<div align="right">
   <a href="README.md">Português</a>🔹<a href="README_en.md">English</a>
 </div>
 
+![Victor Tavares](./topo.png)
 
 ## 👨‍💻 Sobre Mim
 
