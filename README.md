@@ -1,5 +1,5 @@
 ## Olá
-<p>Welcome</p>
+<div align="left">Welcome</div>
 <div align="right">
   <a href="README.md">Português</a>🔹<a href="README_en.md">English</a>
 </div>
