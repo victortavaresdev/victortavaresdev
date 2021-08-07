@@ -1,17 +1,18 @@
 ![Victor Tavares](./top.png)
 
- <table>
+<div>
+ <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
-</div>
+
 
 ## 👾 Sobre Mim
 
  👨‍💻 Desenvolvedor Front-end com foco em React.js</br>
  🖥️ Estudante de Análise e Desenvolvimento de Sistemas</br> 
  💜 Apaixonado por tecnologia e pelo aprendizado contínuo para me manter sempre em constante evolução profissional 
-
+</div>
 
 ## 🛠 Tecnologias & Ferramentas
 
