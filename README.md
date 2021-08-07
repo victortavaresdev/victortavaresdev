@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/victortavaresdev">Github</a> 🔹
   <a href="mailto:victortavaresdev@gmail.com">Gmail</a> 🔹
-  <a href="https://www.linkedin.com/in/victor-tavares-dev/">Linkdin</a>
+  <a href="https://www.linkedin.com/in/victor-tavares-dev/">Linkedin</a>
  </div>
 
 ---
