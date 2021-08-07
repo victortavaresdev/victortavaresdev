@@ -1,10 +1,10 @@
-## Olá
-<div>
-  <div align="left">Welcome</div>
+## Olá <a href="README.md">Português</a>🔹<a href="README_en.md">English</a>
+
+
   <div align="right">
-    <a href="README.md">Português</a>🔹<a href="README_en.md">English</a>
+    
   </div>
-</div>
+
 
 ![Victor Tavares](./topo.png)
 
