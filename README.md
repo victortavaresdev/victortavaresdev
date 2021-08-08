@@ -10,9 +10,6 @@
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 
-<div align="right"><a href="README.md">Português</a>🔹<a href="README_en.md">English</a></div>
-
-
 ## 👨‍💻 Sobre Mim
 
  * Desenvolvedor Front-end com foco em React.js</br>
