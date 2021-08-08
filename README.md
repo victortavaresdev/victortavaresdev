@@ -15,7 +15,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="25"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="25"/></a> 
   <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" height="25" /></a>
-    <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="  https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" height="25" /></a>
+    <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" height="25" /></a>
 </div>
 
 ## 📩 Contato
