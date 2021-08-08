@@ -27,21 +27,18 @@
  <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="25" /></a>
 </div>
 
- <table align="right">
+## 🤖 GitHub Stats
+  
+   <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
-
-## 🤖 GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=victortavaresdev&show_icons=true&theme=tokyonight" />  
 </div>
 
-   <table align="right">
- <tr><td><a href="README_en.md">English</a></td></tr>
- <tr><td><a href="README.md">Português</a></td></tr>
-</table>
+
 
 
 
