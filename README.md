@@ -13,7 +13,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="css3" height="30"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="sass" height="30"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="javascript" height="30"/> </a> </br>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="30"/></a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=a34fff" alt="react" height="30"/></a> 
   <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/styled--components-1A1B27?style=for-the-badge&logo=styled-components&logoColor=ff70ec" alt="Styled Components" height="30" /></a>
     <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React_Router-1A1B27?style=for-the-badge&logo=react-router&logoColor=e60e44" alt="React Router" height="30" /></a>
 </div>
