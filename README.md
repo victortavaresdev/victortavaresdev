@@ -1,6 +1,6 @@
 ![Victor Tavares](./topo.png)
 
-<details align="right">
+<details>
 <summary align="right">Languages</summary>
 <table align="right">
  <tr><td><a href="README_en.md">English</a></td></tr>
