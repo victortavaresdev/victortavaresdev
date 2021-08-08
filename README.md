@@ -27,7 +27,7 @@
 <div>
 
   <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Github-1A1B27?Ubuntu=for-the-badge&logo=github&logoColor=0077B5"  height="25" /></a>
- <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=D14836"  height="30" /></a>
+ <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1B27?gmail=for-the-badge&logo=gmail&logoColor=D14836"  height="25" /></a>
  <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0077B5"  height="30" /></a>
 </div>
 
