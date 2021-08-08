@@ -4,7 +4,7 @@
 
  * Desenvolvedor Front-end com foco em React.js</br>
  * Estudante de Análise e Desenvolvimento de Sistemas</br> 
- * Apaixonado por tecnologia e pelo aprendizado contínuo para me manter sempre em constante evolução profissional 
+ * Apaixonado por tecnologia e pelo aprendizado contínuo
 
 ## 🛠 Tecnologias & Ferramentas
 
