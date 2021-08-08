@@ -36,11 +36,6 @@
 </div>
 
 ## 🤖 GitHub Stats
-  
-   <table align="right">
- <tr><td><a href="README_en.md">English</a></td></tr>
- <tr><td><a href="README.md">Português</a></td></tr>
-</table>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=victortavaresdev&show_icons=true&theme=tokyonight" />  
