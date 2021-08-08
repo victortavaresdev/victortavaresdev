@@ -24,11 +24,11 @@
 
 ## 📩 Contato
 
-<div>0077B5
+<div>
 
-  <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Github-1A1B27?Ubuntu=for-the-badge&logo=github&logoColor=ffffff"  height="25" /></a>
- <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1B27?gmail=for-the-badge&logo=gmail&logoColor=D14836"  height="25" /></a>
- <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/Linkedin-1A1B27?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
+  <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Github-282C34?Ubuntu=for-the-badge&logo=github&logoColor=ffffff"  height="25" /></a>
+ <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-282C34?gmail=for-the-badge&logo=gmail&logoColor=D14836"  height="25" /></a>
+ <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
 </div>
 
 ## 🤖 GitHub Stats
