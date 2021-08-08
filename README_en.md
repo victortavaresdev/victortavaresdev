@@ -30,7 +30,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> 
  <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
- <img background="black" src="https://img.shields.io/badge/React_Router-282C34?style=for-the-badge&logo=react-router&logoColor=white" alt="React router" title="react-router" height="25" />
+ <img background="black" src="https://img.shields.io/badge/React_Router-282C34?logo=reactrouter&logoColor=d6100d" alt="React router" title="react-router" height="25" />
 </div>
 
 ## 📖 Currently studying
