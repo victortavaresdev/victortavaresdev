@@ -2,6 +2,12 @@
 
 ## 👨‍💻 Sobre Mim
 
+
+
+ * Desenvolvedor Front-end com foco em React.js</br>
+ * Estudante de Análise e Desenvolvimento de Sistemas</br> 
+ * Apaixonado por tecnologia e pelo aprendizado contínuo para me manter sempre em constante evolução profissional 
+
 <details>
 <summary align="right">Languages</summary>
 <table align="right">
@@ -9,10 +15,6 @@
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 </details>
-
- * Desenvolvedor Front-end com foco em React.js</br>
- * Estudante de Análise e Desenvolvimento de Sistemas</br> 
- * Apaixonado por tecnologia e pelo aprendizado contínuo para me manter sempre em constante evolução profissional 
 
 
 ## 🛠 Tecnologias & Ferramentas
