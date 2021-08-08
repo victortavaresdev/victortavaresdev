@@ -1,5 +1,7 @@
 ![Victor Tavares](./topo.png)
 
+## 👨‍💻 Sobre Mim
+
 <details>
 <summary align="right">Languages</summary>
 <table align="right">
@@ -7,8 +9,6 @@
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 </details>
-
-## 👨‍💻 Sobre Mim
 
  * Desenvolvedor Front-end com foco em React.js</br>
  * Estudante de Análise e Desenvolvimento de Sistemas</br> 
