@@ -9,7 +9,7 @@
 ## 🛠 Tecnologias & Ferramentas
 
 <div>
-     <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Ubuntu-1A1B27?Ubuntu=for-the-badge&logo=ubuntu&logoColor=0077B5"  height="30" /></a>
+     <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Ubuntu-282C34?Ubuntu=for-the-badge&logo=ubuntu&logoColor=0077B5"  height="30" /></a>
          <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325"  height="30" /></a>
           <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  height="30" /></a>
             <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"  height="30" /></a> </br>
