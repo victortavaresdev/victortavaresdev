@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-1A1B27?style=for-the-badge&logo=html5&logoColor=ffa200" alt="html5" height="25"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1A1B27?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="25"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1A1B27?style=for-the-badge&logo=css3&logoColor=1fafed" alt="css3" height="25"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-1A1B27?style=for-the-badge&logo=sass&logoColor=white" alt="sass" height="25"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="25"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="25"/></a> 
