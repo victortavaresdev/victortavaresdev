@@ -1,8 +1,8 @@
 ![Victor Tavares](./topo.png)
 
 <details>
-<summary align="left">Languages</summary>
-<table align="left">
+<summary align="center">Languages</summary>
+<table align="center">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
