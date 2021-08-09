@@ -1,3 +1,5 @@
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30" />
+
 ![Victor Tavares](./topo.png)
 
 <details>
