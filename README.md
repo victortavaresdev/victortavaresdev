@@ -2,7 +2,7 @@
 
 <details>
 <summary align="left">Languages</summary>
-<table align="right">
+<table align="left">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
