@@ -1,3 +1,4 @@
+<div>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30" />
 <details>
 <summary align="right">Languages</summary>
@@ -6,6 +7,7 @@
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 </details>
+ </div>
 
 ![Victor Tavares](./topo.png)
 
