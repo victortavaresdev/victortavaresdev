@@ -16,7 +16,7 @@
 ## 🛠 Tecnologias & Ferramentas
 
 <div>
-     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-282C34?Ubuntu=for-the-badge&logo=ubuntu&logoColor=f27516"  height="25" /></a>
+     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-1A1B27?Ubuntu=for-the-badge&logo=ubuntu&logoColor=f27516"  height="25" /></a>
          <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=40f561"  height="25" /></a>
           <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  height="25" /></a>
             <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"  height="25" /></a> </br>
