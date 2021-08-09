@@ -1,5 +1,10 @@
 ![Victor Tavares](./topo.png)
 
+<table align="right">
+ <tr><td><a href="README_en.md">English</a></td></tr>
+ <tr><td><a href="README.md">Português</a></td></tr>
+</table>
+
 ## 👨‍💻 Sobre Mim
 
  🔹 Desenvolvedor Front-end com foco em React.js</br>
