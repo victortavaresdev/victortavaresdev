@@ -1,11 +1,11 @@
 ![Victor Tavares](./topo.png)
-<details>�
+<details>
  <summary align="center">Languages</summary> 
 <table align="center" margin="20">
  <tr><td><a href="README_en.md">English</a></td></tr>
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
-�</details>
+</details>
 
 ## 👨‍💻 Sobre Mim
 
