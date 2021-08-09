@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mim
 
- * Desenvolvedor Front-end com foco em React.js</br>
+ 🔹 Desenvolvedor Front-end com foco em React.js</br>
  * Estudante de Análise e Desenvolvimento de Sistemas</br> 
  * Apaixonado por tecnologia e pelo aprendizado contínuo
 
