@@ -8,11 +8,11 @@
 </details>
 
 ## 👨‍💻 Sobre Mim
-<div align="center">
+
  🔹 Desenvolvedor Front-end com foco em ReactJS.</br>
  🔹 Estudante de Análise e Desenvolvimento de Sistemas.</br> 
  🔹 Apaixonado por tecnologia e pelo aprendizado contínuo.
- </div>
+
 
 ## 🛠 Tecnologias & Ferramentas
 
