@@ -30,19 +30,21 @@
     <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React_Router-282C34?logo=reactrouter&logoColor=d6100d" alt="React Router" height="25" /></a>
 </div>
 
-## 📖 Currently studying
+## 📩 Contact
 
 <div>
- <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
- <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-</div>
 
+  <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Github-282C34?Ubuntu=for-the-badge&logo=github&logoColor=ffffff"  height="25" /></a>
+ <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-282C34?gmail=for-the-badge&logo=gmail&logoColor=D14836"  height="25" /></a>
+ <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
+</div>
 
 ## 🤖 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=victortavaresdev&show_icons=true&theme=tokyonight" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=victortavaresdev&show_icons=true&theme=tokyonight" height="190"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&theme=tokyonight" height="190" />
 </div>
+
 
 
