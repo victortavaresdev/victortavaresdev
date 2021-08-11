@@ -7,11 +7,11 @@
 </table>
 </details>
 
-## 👾 About Me
+## 👨‍💻 About Me
 
-👨‍💻 Front-end Developer focusing on React.js</br> 
-🖥️ Systems Analysis and Development Student  
-💜 Passionate about technology and continuous learning to keep myself in constant professional evolution 
+🔹 Front-end Developer focusing on React.js</br> 
+🔹 Systems Analysis and Development Student  
+🔹 Passionate about technology and continuous learning to keep myself in constant professional evolution 
 
 
 ## 🛠 Technologies & Tools
