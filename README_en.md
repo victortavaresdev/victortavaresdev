@@ -9,8 +9,8 @@
 
 ## 👨‍💻 About Me
 
-🔹 Front-end Developer focusing on ReactJS</br> 
-🔹 Systems Analysis and Development Student  
+🔹 Front-end Developer focusing on ReactJS.</br> 
+🔹 Systems Analysis and Development Student.  
 🔹 Passionate about technology and continuous learning.
 
 
