@@ -14,7 +14,7 @@
 💜 Passionate about technology and continuous learning to keep myself in constant professional evolution 
 
 
-## 🛠 Technologies and Tools
+## 🛠 Technologies & Tools
 
 <div>
      <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-282C34?Ubuntu=for-the-badge&logo=ubuntu&logoColor=f27516"  height="25" /></a>
