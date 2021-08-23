@@ -30,6 +30,9 @@
     <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React_Router-282C34?logo=reactrouter&logoColor=d6100d" alt="React Router" height="25" /></a>
 </div>
 
+## 🤓 Studying
+ <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-282C34?TypeScript=for-the-badge&logo=typescript&logoColor=1572B6"  height="25" /></a>
+
 ## 📩 Contact
 
 <div>
