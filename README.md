@@ -32,7 +32,7 @@
 
 ## 🛠 Estudando
  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/TypeScript-282C34?Ubuntu=for-the-badge&logo=typescript&logoColor=f27516"  height="25" /></a>
-         <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=40f561"  height="25" /></a>
+         
 
 ## 📩 Contato
 
