@@ -31,7 +31,7 @@
 </div>
 
 ## 🛠 Estudando
- <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-282C34?TypeScript=for-the-badge&logo=typescript&logoColor=ffffff"  height="25" /></a>
+ <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-282C34?TypeScript=for-the-badge&logo=typescript&logoColor=1572B6"  height="25" /></a>
          
 
 ## 📩 Contato
