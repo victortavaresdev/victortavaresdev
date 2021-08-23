@@ -31,7 +31,7 @@
 </div>
 
 ## 🛠 Estudando
- <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/TypeScript-282C34?Ubuntu=for-the-badge&logo=typescript&logoColor=f27516"  height="25" /></a>
+ <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/TypeScript-ffffff?Ubuntu=for-the-badge&logo=typescript&logoColor=f27516"  height="25" /></a>
          
 
 ## 📩 Contato
