@@ -19,7 +19,7 @@
 <div>
     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-282C34?Ubuntu=for-the-badge&logo=ubuntu&logoColor=f27516"  height="25" /></a>
     <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=40f561"  height="25" /></a>
-     <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/Cypress-ffffff?logo=cypress&logoColor=40f561"  height="25" /></a>
+     <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress&logoColor=ffffff"  height="25" /></a>
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  height="25" /></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"  height="25" /></a> </br>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="html5" height="25"/> </a>
