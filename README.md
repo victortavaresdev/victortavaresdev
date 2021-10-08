@@ -27,7 +27,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="css3"        height="25"/> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="sass" height="25"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34?  logo=javascript&logoColor=F7DF1E" alt="javascript" height="25"/> </a> 
-   
     </br>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="react" height="25"/></a> 
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="25" /></a>
