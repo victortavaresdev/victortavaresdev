@@ -43,11 +43,7 @@
  <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
 </div>
 
-## 🤖 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&theme=tokyonight" height="190" />
-</div>
 
 
 
