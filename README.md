@@ -38,7 +38,7 @@
  <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
