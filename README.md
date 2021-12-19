@@ -11,6 +11,8 @@
 ## 🛠 Tecnologias & Ferramentas
 
 🔹 HTML5
+🔹 CSS3
+🔹 TypeScript
 
 
 
