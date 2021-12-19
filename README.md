@@ -10,7 +10,7 @@
 
 ## 🛠 Tecnologias & Ferramentas
 
-🔹 HTML5
+* HTML5
 🔹 CSS3
 🔹 TypeScript
 🔹 React.js
