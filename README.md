@@ -11,8 +11,8 @@
 ## 🛠 Tecnologias & Ferramentas
 
 * HTML5
-🔹 CSS3
-🔹 TypeScript
+* CSS3
+* TypeScript
 🔹 React.js
 🔹 Next.js
 🔹 Styled Components
