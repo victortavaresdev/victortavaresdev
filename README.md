@@ -9,7 +9,7 @@
 </details>
 
 
-## 🛠 Tecnologias & Ferramentas
+## 🛠 Technologies & Tools
 
 <div>
     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-282C34?Ubuntu=for-the-badge&logo=ubuntu&logoColor=f27516"  height="25" /></a>
@@ -29,7 +29,7 @@
  
 </div>  
 
-## 📩 Contato
+## 📩 Contact
 
 <div>
 
