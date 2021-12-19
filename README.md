@@ -1,11 +1,5 @@
 ![Victor Tavares](./topo.png)
 
-
-
-## 🛠 Tecnologias & Ferramentas
-
-🔹 HTML5
-
 <details>
  <summary align="right">Languages</summary> 
 <table align="right" margin="20">
@@ -13,6 +7,12 @@
  <tr><td><a href="README.md">Português</a></td></tr>
 </table>
 </details>
+
+## 🛠 Tecnologias & Ferramentas
+
+🔹 HTML5
+
+
 
 
 ## 📩 Contato
