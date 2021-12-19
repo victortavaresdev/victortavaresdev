@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 ![Styled_Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;&nbsp;
 ![React_Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;&nbsp;
-![Next](https://img.shields.io/badge/next-DB7093?style=for-the-badge&logo=next&logoColor=white)&nbsp;&nbsp;
+![Next](https://img.shields.io/badge/Next-DB7093?style=for-the-badge&logo=next&logoColor=white)&nbsp;&nbsp;
 ![Styled_Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;&nbsp;
 
 
