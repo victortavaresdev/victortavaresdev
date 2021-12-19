@@ -1,14 +1,5 @@
 ![Victor Tavares](./topo.png)
 
-<details>
- <summary align="right">Languages</summary> 
-<table align="right" margin="20">
- <tr><td><a href="README_en.md">English</a></td></tr>
- <tr><td><a href="README.md">Português</a></td></tr>
-</table>
-</details>
-
-
 ## 🛠 Technologies & Tools
 
 <div>
