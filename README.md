@@ -1,4 +1,4 @@
-![Victor Tavares](./topo.png)
+![Victor Tavares](./top.png)
 
 ## 🛠 Technologies & Tools
 
