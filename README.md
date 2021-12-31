@@ -5,7 +5,7 @@
 <div>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="html5" height="25"/>     </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="css3"               height="25"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-282C34? logo=typescript&logoColor=F7DF1E"           alt="typescript" height="25"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-282C34? logo=TypeScript&logoColor=F7DF1E"           alt="typescript" height="25"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="react" height="25"/></a>
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-282C34?logo=nextjs&logoColor=d6100d" alt="React     Router" height="25" /></a>
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-        components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="25" /></a>
