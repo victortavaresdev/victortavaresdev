@@ -1,4 +1,4 @@
-![Victor Tavares](./top.png)
+![Victor Tavares](./topo.png)
 
 ## 👨‍💻 Tech Stack
 
