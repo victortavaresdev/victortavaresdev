@@ -16,7 +16,7 @@
 ## 🛠 Other Technologies/Tools
 
 <div>
-   <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-282C34?Testing_Library=for-the-badge&logo=testing- library&logoColor=ED3B3A"  height="25" /></a>
+   <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-282C34?Testing_Library=for-the-badge&logo=testing-library&logoColor=ED3B3A"  height="25" /></a>
    <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=40f561"  height="25" /></a>
    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"  height="25" /></a>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="sass" height="25"/> </a>
