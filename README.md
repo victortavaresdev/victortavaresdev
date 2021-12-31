@@ -1,4 +1,4 @@
-![Victor Tavares](./top.png)
+![Victor Tavares](./background.png)
 
 ## 👨‍💻 Tech Stack
 
