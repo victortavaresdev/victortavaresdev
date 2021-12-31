@@ -1,6 +1,6 @@
 ![Victor Tavares](./top.png)
 
-## 🛠 Tech Stack
+## 👨‍💻 Tech Stack
 
 <div>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="html5" height="25"/>     </a>
