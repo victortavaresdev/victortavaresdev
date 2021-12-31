@@ -8,7 +8,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-282C34? logo=TypeScript&logoColor=F7DF1E"           alt="typescript" height="25"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="react" height="25"/></a>
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-282C34?logo=nextjs&logoColor=d6100d" alt="React     Router" height="25" /></a>
-    <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-        components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="25" /></a>
+    <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="25" /></a>
 
  
 </div>  
