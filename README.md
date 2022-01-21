@@ -13,7 +13,7 @@
  
 </div>  
 
-## 🛠 Other Technologies/Tools
+## 🛠 Outras tecnologias/ferramentas
 
 <div>
    <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-282C34?Testing_Library=for-the-badge&logo=testing-library&logoColor=ED3B3A"  height="25" /></a>
@@ -24,7 +24,7 @@
    <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React_Router-282C34?   logo=reactrouter&logoColor=d6100d" alt="React Router" height="25" /></a>
 </div>  
 
-## 📩 Contact
+## 📩 Contato
 
 <div>
     
@@ -33,8 +33,6 @@
  <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-282C34?gmail=for-the-badge&logo=gmail&logoColor=D14836"  height="25" /></a>
  <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
 </div>
-
-## 🤖 Github Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight)
 
