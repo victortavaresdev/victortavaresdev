@@ -13,7 +13,7 @@
  
 </div>  
 
-## 🛠 Outras tecnologias/ferramentas
+## 🛠 Outras Tecnologias/Ferramentas
 
 <div>
    <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-282C34?Testing_Library=for-the-badge&logo=testing-library&logoColor=ED3B3A"  height="25" /></a>
