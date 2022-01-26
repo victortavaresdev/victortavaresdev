@@ -41,6 +41,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight)
 
+<a href="https://github.com/victortavaresdev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight" />
+</a>
+
 #
 
 <div align="center">
