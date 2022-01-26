@@ -33,6 +33,11 @@
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=Tailwindcss&logoColor=CC6699"                  alt="TailwindCSS" height="25"/> </a>
 </p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<p align=center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight)
+</p>
 
 ## 📩 Contato
 
