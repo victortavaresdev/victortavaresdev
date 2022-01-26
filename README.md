@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### let's share knowledge and learn more ❤️ 
 
 </div>
 
