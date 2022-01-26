@@ -17,7 +17,7 @@
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="html5" height="25"/>     </a>
