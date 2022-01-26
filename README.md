@@ -20,7 +20,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
+<h3 align="center">🔥 Languages, Frameworks & Tools 🔥</h3>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="html5" height="25"/>     </a>
@@ -37,7 +37,7 @@
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=Tailwindcss&logoColor=CC6699"                  alt="TailwindCSS" height="25"/> </a>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 
 <div align="center" href="https://github.com/victortavaresdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight" />
