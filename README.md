@@ -21,6 +21,8 @@
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
 ## 👨‍💻 Tech Stack
 
 <div>
