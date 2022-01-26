@@ -37,6 +37,8 @@
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=Tailwindcss&logoColor=CC6699"                  alt="TailwindCSS" height="20" /> </a>
 </p>
 
+#
+
 <h3 align="center">⚡ Stats ⚡</h3>
 
 <div align="center" href="https://github.com/victortavaresdev">
