@@ -40,9 +40,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight)
 
-<div align="center">
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight)
-</div>
+</p>
 
 #
 
