@@ -16,7 +16,7 @@
   <br>
   👨‍💻 I'm always open to learning about new solutions and technologies.
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: victortavaresdev@gmail.com">victortavaresdev@gmail.com</a>
 </p>
 
 <hr>
