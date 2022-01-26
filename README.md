@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Hi, I'm Victor Tavares, Front-end Developer from Brazil.
+  🙋‍♂️ Hi, I'm Victor Tavares, Front-end Developer from Brazil.
   <br>
   <br>
   🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
