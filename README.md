@@ -1,5 +1,7 @@
 ![Victor Tavares](./topo.png)
 
+<br>
+
 <p align="center">
   Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
   <br>
