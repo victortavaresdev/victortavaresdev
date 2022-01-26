@@ -39,7 +39,7 @@
 
 #
 
-<h3 align="center">⚡ Stats ⚡</h3>
+<h3 align="center">⚡ Github Stats ⚡</h3>
 
 <div align="center" href="https://github.com/victortavaresdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight" />
