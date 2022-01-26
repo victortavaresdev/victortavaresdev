@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/Github-282C34?Ubuntu=for-the-badge&logo=github&logoColor=ffffff"  height="20" /></a>
  <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-282C34?gmail=for-the-badge&logo=gmail&logoColor=D14836"  height="20" /></a>
- <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="20" /></a>
+ <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
 </p>
 
 <p align="center">
