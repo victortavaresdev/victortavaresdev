@@ -10,7 +10,7 @@
   🙋‍♂️ Hi, I'm Victor Tavares, Front-end Developer from Brazil.
   <br>
   <br>
-  🔬 I'm currently studying and specializing in front-end development.
+  🤓 I'm currently studying and specializing in front-end development.
   <br>
   💻 I love writing code and solving problems.
   <br>
