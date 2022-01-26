@@ -14,7 +14,7 @@
   <br>
   💻 I love writing code and solving problems.
   <br>
-  💬 I'm always open to learning about new solutions and technologies.
+  👨‍💻 I'm always open to learning about new solutions and technologies.
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
