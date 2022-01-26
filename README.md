@@ -31,21 +31,8 @@
    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"  height="25" /></a>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="sass" height="25"/> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=Tailwindcss&logoColor=CC6699"                  alt="TailwindCSS" height="25"/> </a>
-   <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React_Router-282C34?   logo=reactrouter&logoColor=d6100d" alt="React Router" height="25" /></a>
 </p>
 
-
-
-## 🛠 Outras Tecnologias/Ferramentas
-
-<div>
-   <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-282C34?Testing_Library=for-the-badge&logo=testing-library&logoColor=ED3B3A"  height="25" /></a>
-   <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=40f561"  height="25" /></a>
-   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"  height="25" /></a>
-   <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="sass" height="25"/> </a>
-   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=Tailwindcss&logoColor=CC6699"                  alt="TailwindCSS" height="25"/> </a>
-   <a href="https://reactrouter.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React_Router-282C34?   logo=reactrouter&logoColor=d6100d" alt="React Router" height="25" /></a>
-</div>  
 
 ## 📩 Contato
 
