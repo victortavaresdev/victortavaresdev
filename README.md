@@ -39,9 +39,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<a align="center" href="https://github.com/victortavaresdev/github-readme-stats">
+<div align="center" href="https://github.com/victortavaresdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight" />
-</a>
+</div>
 
 #
 
