@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### let's share knowledge and learn more ❤️ 
+### Let's share knowledge and learn more ❤️ 
 
 </div>
 
