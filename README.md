@@ -1,4 +1,4 @@
-![Victor Tavares](./banner.png)
+![Victor Tavares](./top.png)
 
 <p align="center">
   <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20" /></a>
