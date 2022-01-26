@@ -10,9 +10,9 @@
   🙋‍♂️ Hi, I'm Victor Tavares, Front-end Developer from Brazil.
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 I'm currently studying and specializing in front-end development.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and solving problems
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
