@@ -1,5 +1,24 @@
 ![Victor Tavares](./topo.png)
 
+<p align="center">
+  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  <br>
+  <br>
+  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  <br>
+  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+</p>
+
 ## 👨‍💻 Tech Stack
 
 <div>
@@ -10,7 +29,6 @@
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-282C34?logo=nextjs&logoColor=d6100d" alt="React     Router" height="25" /></a>
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="25" /></a>
 
- 
 </div>  
 
 ## 🛠 Outras Tecnologias/Ferramentas
