@@ -32,7 +32,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-071A2C?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="20"/> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-071A2C?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" height="20"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-071A2C?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="20"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-071A2C?style=for-the-badge&logo=react&logoColor=white" alt="react" height="20"/></a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-071A2C?style=for-the-badge&logo=react&logoColor=white" alt="react" height="20"/></a>
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-282C34?logo=next&logoColor=d6100d" alt="Next" height="20" /></a>
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="20" /></a>
    <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-282C34?Testing_Library=for-the-badge&logo=testing-library&logoColor=ED3B3A"  height="20" /></a>
