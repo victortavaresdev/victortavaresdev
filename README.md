@@ -25,7 +25,7 @@
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-071A2C?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="20"/>     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="css3"               height="20"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-071A2C?style=for-the-badge&logo=css3&logoColor=white" alt="css3"               height="20"/> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34? logo=JavaScript&logoColor=F7DF1E" alt="javascript" height="20"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-282C34? logo=TypeScript&logoColor=F7DF1E"           alt="typescript" height="20"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="react" height="20"/></a>
