@@ -1,7 +1,7 @@
 ![Victor Tavares](./top.png)
 
 <p align="center">
-  <a href="https://github.com/victortavaresdev/victortavaresdev/blob/main/README_PT.md">Português</a> 
+  <a href="https://github.com/victortavaresdev/victortavaresdev/blob/main/README_PT.md">🇧🇷 Português</a> 
 </p>
 
 <p align="center">
