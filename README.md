@@ -29,7 +29,7 @@
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html5.png" alt="html5" height="32" />     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/css3.png" alt="css3" height="32" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" height="32" /> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/typescript.png" alt="typescript" height="32"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/react.png" alt="react" height="32"/></a>
