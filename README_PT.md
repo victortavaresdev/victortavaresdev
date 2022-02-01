@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3 align="center">🔥 Linguagens, Frameworks e Ferramentas 🔥</h3>
+<h3 align="center">🔥 Linguagens, Frameworks & Ferramentas 🔥</h3>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html5.png" alt="html5" height="32" />     </a>
