@@ -1,12 +1,12 @@
 ![Victor Tavares](./top.png)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" height="20" /></a>
   <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
   <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/victortavaresdev/victortavaresdev/blob/main/README_PT.md">🇧🇷 Português</a> 
 </p>
 
