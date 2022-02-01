@@ -18,7 +18,7 @@
   <br>
   💻 Eu amo escrever código e resolver problemas.
   <br>
-  👨‍💻 Estou sempre aberto para aprender sobre novas soluções e tecnologias.
+  👨‍💻 Estou sempre aberto para aprender novas soluções e tecnologias.
   <br>
   📫 Como me contactar: <a href="mailto: victortavaresdev@gmail.com">victortavaresdev@gmail.com</a>
 </p>
