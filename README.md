@@ -53,7 +53,7 @@
 
 <div align="center">
 
-### Let's share knowledge and learn more ❤️ 
+### Let's share knowledge and learn more 👍
 
 </div>
 
