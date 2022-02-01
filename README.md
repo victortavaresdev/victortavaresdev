@@ -36,7 +36,7 @@
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/victortavaresdev/victortavaresdev/blob/main/next-js.svg" alt="Next" height="32" /></a>
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://github.com/victortavaresdev/victortavaresdev/blob/main/styled-components.png" alt="Styled Components" height="32" /></a>
    <a href="https://testing-library.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/testing-library.png" height="32" /></a>
-   <a href="https://jestjs.io/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/jest.png" height="32" /></a>
+   <a href="https://jestjs.io/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/jest.png" height="30" /></a>
    <a href="https://git-scm.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/gitt.png" height="32" /></a>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/sass.png" alt="sass" height="32" /> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/tailwindcss.png"              alt="TailwindCSS" height="32" /> </a>
