@@ -28,9 +28,9 @@
 <h3 align="center">🔥 Languages, Frameworks & Tools 🔥</h3>
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html-5.png" alt="html5" height="64" />     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/css.png" alt="css3" height="64" /> </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="64"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html-5.png" alt="html5" height="32" />     </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/css.png" alt="css3" height="32" /> </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-071A2C?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="20"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-071A2C?style=for-the-badge&logo=nextjs&logoColor=white" alt="react" height="20"/></a>
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-282C34?logo=nextjs&logoColor=d6100d" alt="Next" height="20" /></a>
