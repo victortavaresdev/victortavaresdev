@@ -28,10 +28,10 @@
 <h3 align="center">🔥 Languages, Frameworks & Tools 🔥</h3>
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-071A2C?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="25"/>     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-071A2C?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="25"/> </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-071A2C?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" height="25"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-282C34? logo=TypeScript&logoColor=F7DF1E"           alt="typescript" height="20"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-071A2C?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="20"/>     </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-071A2C?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="20"/> </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-071A2C?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" height="20"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-071A2C?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="20"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="react" height="20"/></a>
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-282C34?logo=nextjs&logoColor=d6100d" alt="React     Router" height="20" /></a>
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="20" /></a>
