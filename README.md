@@ -28,7 +28,7 @@
 <h3 align="center">🔥 Languages, Frameworks & Tools 🔥</h3>
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html-5.png" alt="html5" height="20"/>     </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html-5.png" alt="html5"/>     </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-071A2C?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="20"/> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-071A2C?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" height="20"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-071A2C?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="20"/> </a> 
