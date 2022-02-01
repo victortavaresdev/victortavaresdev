@@ -38,7 +38,7 @@
    <a href="https://testing-library.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/testing-library.png" height="32" /></a>
    <a href="https://jestjs.io/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/jest.png" height="32" /></a>
    <a href="https://git-scm.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/gitt.png" height="32" /></a>
-   <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="sass" height="20" /> </a>
+   <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/sass.png" alt="sass" height="32" /> </a>
    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=Tailwindcss&logoColor=CC6699"                  alt="TailwindCSS" height="20" /> </a>
 </p>
 
