@@ -33,7 +33,7 @@
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/typescript.png" alt="typescript" height="32"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/react.png" alt="react" height="32"/></a>
-    <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-282C34?logo=nextjs&logoColor=d6100d" alt="Next" height="20" /></a>
+    <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/victortavaresdev/victortavaresdev/blob/main/next-js.png" alt="Next" height="32" /></a>
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="Styled Components" height="20" /></a>
    <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-282C34?Testing_Library=for-the-badge&logo=testing-library&logoColor=ED3B3A"  height="20" /></a>
    <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=40f561"  height="20" /></a>
