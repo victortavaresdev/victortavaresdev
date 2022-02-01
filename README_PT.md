@@ -53,7 +53,7 @@
 
 <div align="center">
 
-### Vamos compartilhar conhecimento e aprender mais ❤️
+### Vamos compartilhar conhecimento e aprender mais 👍
 
 </div>
 
