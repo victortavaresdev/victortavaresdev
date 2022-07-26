@@ -54,7 +54,7 @@
 
 <div align="center">
 
-### Let's share knowledge and learn more 👍
+### Never stop learning 👍
 
 </div>
 
