@@ -1,4 +1,4 @@
-![Victor Tavares](./topo.png)
+![Victor Tavares](./top.png)
 
 <p align="center">
   <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" height="20" /></a>
@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  🙋‍♂️ Oi, sou Victor Tavares, Desenvolvedor Front-end.
+  🙋‍♂️ Oi, sou Victor Tavares, Desenvolvedor Full-Stack.
   <br>
   <br>
-  🤓 Atualmente estou estudando e me especializando em desenvolvimento Front-end.
+  🤓 Atualmente estou estudando e me especializando em desenvolvimento Full-Stack.
   <br>
   💻 Eu amo escrever código e resolver problemas.
   <br>
