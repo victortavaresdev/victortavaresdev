@@ -54,7 +54,7 @@
 
 <div align="center">
 
-### Nunca pare de aprender 👍
+### Never stop learning 👍
 
 </div>
 
