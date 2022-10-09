@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  🙋‍♂️ Hi, I'm Victor Tavares, Full-Stack Developer from Brazil.
+  🙋‍♂️ Hi, I'm Victor Tavares, Full Stack Developer from Brazil.
   <br>
   <br>
-  🤓 I'm currently studying and specializing in Full-Stack development.
+  🤓 I'm currently studying and specializing in Back-end development.
   <br>
   💻 I love writing code and solving problems.
   <br>
