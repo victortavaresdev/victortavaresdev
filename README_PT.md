@@ -14,7 +14,7 @@
   🙋‍♂️ Oi, sou Victor Tavares, Desenvolvedor Full Stack.
   <br>
   <br>
-  🤓 Atualmente estou estudando e me especializando em Desenvolvimento Back-end.
+  🤓 Atualmente estou estudando e me especializando em desenvolvimento Back-end.
   <br>
   💻 Eu amo escrever código e resolver problemas.
   <br>
