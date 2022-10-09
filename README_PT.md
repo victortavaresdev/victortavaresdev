@@ -30,14 +30,14 @@
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html5.png" alt="html5" height="32" />     </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" height="32" /> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/sass.png" alt="sass" height="32" /> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/tailwindcss.png"              alt="TailwindCSS" height="32" /> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/typescript.png" alt="typescript" height="32"/> </a> 
+   <a href="https://reactjs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/react.png" height="30" /></a>
    <a href="https://vuejs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/vueJS.png" height="30" /></a>
-   <a href="https://nuxtjs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/nuxtJS.png" height="30" /></a>
    <a href="https://nodejs.org/en/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/node.png" height="30" /></a>
    <a href="https://nestjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/nest.svg" height="30" /></a>
+   <a href="https://adonisjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/adonis.png" height="30" /></a>
    <a href="https://www.docker.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/docker.png" height="30" /></a>
    <a href="https://git-scm.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/gitt.png" height="32" /></a>
 </p>
