@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  🙋‍♂️ Oi, sou Victor Tavares, Desenvolvedor Full-Stack.
+  🙋‍♂️ Oi, sou Victor Tavares, Desenvolvedor Full Stack.
   <br>
   <br>
-  🤓 Atualmente estou estudando e me especializando em desenvolvimento Full-Stack.
+  🤓 Atualmente estou estudando e me especializando em Desenvolvimento Back-end.
   <br>
   💻 Eu amo escrever código e resolver problemas.
   <br>
