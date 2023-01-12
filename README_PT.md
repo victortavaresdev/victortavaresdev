@@ -36,11 +36,13 @@
    <a href="https://reactjs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/react.png" height="30" /></a>
    <a href="https://vuejs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/vueJS.png" height="30" /></a>
    <a href="https://nodejs.org/en/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/node.png" height="30" /></a>
+   <a href="https://expressjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/express-js.png" height="30" /></a>
    <a href="https://nestjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/nest.svg" height="30" /></a>
    <a href="https://adonisjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/adonis.png" height="30" /></a>
    <a href="https://www.php.net/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/php.png" height="30" /></a>
    <a href="https://laravel.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/laravel.png" height="30" /></a>
    <a href="https://www.docker.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/docker.png" height="30" /></a>
+   <a href="https://jestjs.io/pt-BR/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/jestt.png" height="30" /></a>
    <a href="https://git-scm.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/gitt.png" height="32" /></a>
 </p>
 
