@@ -14,7 +14,7 @@
   🙋‍♂️ Oi, sou Victor Tavares, Desenvolvedor Full Stack.
   <br>
   <br>
-  🤓 Atualmente estou estudando e me especializando em desenvolvimento Back-end.
+  🤓 Atualmente estou trabalhando como Desenvolvedor Full Stack.
   <br>
   💻 Eu amo escrever código e resolver problemas.
   <br>
@@ -29,20 +29,21 @@
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html5.png" alt="html5" height="32" />     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" height="32" /> </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/typescript.png" alt="typescript" height="32"/> </a> 
-   <a href="https://reactjs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/react.png" height="30" /></a>
+   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" height="32" /> </a>
+   <a href="https://tailwindcss.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/tailwind.png" height="30" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
+   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/typescript.png" alt="typescript" height="32"/> </a> 
    <a href="https://vuejs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/vueJS.png" height="30" /></a>
    <a href="https://nodejs.org/en/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/node.png" height="30" /></a>
    <a href="https://expressjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/express-js.png" height="30" /></a>
    <a href="https://nestjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/nest.svg" height="30" /></a>
-   <a href="https://adonisjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/adonis.png" height="30" /></a>
    <a href="https://www.php.net/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/php.png" height="30" /></a>
    <a href="https://laravel.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/laravel.png" height="30" /></a>
    <a href="https://www.docker.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/docker.png" height="30" /></a>
    <a href="https://jestjs.io/pt-BR/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/jestt.png" height="30" /></a>
+   <a href="https://phpunit.de/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/phpunit.png" height="30" /></a>
    <a href="https://git-scm.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/gitt.png" height="32" /></a>
+   <a href="https://aws.amazon.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/aws.png" height="32" /></a>
 </p>
 
 #
