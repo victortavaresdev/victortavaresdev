@@ -34,9 +34,9 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/typescript.png" alt="typescript" height="32"/> </a> 
    <a href="https://vuejs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/vueJS.png" height="30" /></a>
+     <a href="https://nuxt.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" height="30" /></a>
    <a href="https://nodejs.org/en/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/node.png" height="30" /></a>
    <a href="https://expressjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/express-js.png" height="30" /></a>
-   <a href="https://nestjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/nest.svg" height="30" /></a>
    <a href="https://www.php.net/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/php.png" height="30" /></a>
    <a href="https://laravel.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/laravel.png" height="30" /></a>
    <a href="https://www.docker.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/docker.png" height="30" /></a>
