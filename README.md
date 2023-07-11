@@ -14,7 +14,7 @@
   🙋‍♂️ Hi, I'm Victor Tavares, Full Stack Developer from Brazil.
   <br>
   <br>
-  🤓 I'm currently specializing as a Full Stack Developer and Software Architect.
+  🤓 Full Stack Developer with focus on TypeScript & PHP.
   <br>
   💻 I love writing code and solving problems.
   <br>
