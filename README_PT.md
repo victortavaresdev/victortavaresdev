@@ -14,7 +14,7 @@
   🙋‍♂️ Oi, sou Victor Tavares, Desenvolvedor Full Stack.
   <br>
   <br>
-  🤓 Atualmente estou me especializando como Desenvolvedor Full Stack e Arquiteto de Software.
+  🤓 Desenvolvedor Full Stack com foco em TypeScript e PHP.
   <br>
   💻 Eu amo escrever código e resolver problemas.
   <br>
